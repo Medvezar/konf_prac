@@ -1,4 +1,4 @@
-#Задача 1 Решение:
+# Задача 1 Решение:
 
 sed 's/:.*//' /etc/passwd > data.txt   
 sort data.txt 
