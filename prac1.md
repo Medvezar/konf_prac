@@ -7,7 +7,7 @@ sort data.txt
 
 # Задача 2 Решение:
 
-localhost:~# sed 's/#.*//' /etc/protocols | sort -ru -nk2 > data.txt
-localhost:~# head -5 data.txt
+sed 's/#.*//' /etc/protocols | sort -ru -nk2 > data.txt
+head -5 data.txt
 
 ![image](https://github.com/user-attachments/assets/0c26160e-8ac9-4e1b-8a42-dab7a778c387)
