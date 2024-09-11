@@ -14,6 +14,19 @@ head -5 data.txt
 
 # Задача 3 Решение:
 
-touch myscript.sv 
-nano myscript.sv 
--вложение файла- 
+touch myscript.sv  
+nano myscript.sv  
+-вложение файла-  
+#!/bin/bash  
+  
+text=$*  
+length=${#text}  
+
+
+for _ in $(seq 1 $((length + 2))); do  
+    line+="-"  
+done  
+  
+echo "+${line}+"  
+echo "| ${text} |"  
+echo "+${line}+"  
