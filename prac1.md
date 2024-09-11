@@ -48,3 +48,7 @@ chmod +x ./myscript
 -результат-  
 ![image](https://github.com/user-attachments/assets/a39cb1bd-a077-4683-88a8-cafad8ff6180)
 
+# Задача 6 Решение:
+-содержание файла-  
+![image](https://github.com/user-attachments/assets/72069a73-d028-457b-af1e-be82fda7e1f5)
+
