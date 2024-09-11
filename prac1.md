@@ -34,3 +34,11 @@ echo "+${line}+"
 chmod +x ./myscript  
 ![image](https://github.com/user-attachments/assets/a1abfd77-7340-4a72-959c-39d16fb6b31f)
 
+
+# Задача 4 Решение:
+-содержание файла-  
+![image](https://github.com/user-attachments/assets/2483513c-a5d1-4c12-862c-9e54f6675078)
+
+-результат-  
+![image](https://github.com/user-attachments/assets/41d92743-2690-4e14-866d-bbe40bff3dc1)
+
