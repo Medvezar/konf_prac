@@ -23,7 +23,7 @@ text=$*
 length=${#text}  
 
 
-for _ in $(seq 1 $((length + 2))); do  
+for _ in \$(seq 1 \$((length + 2))); do  
     line+="-"  
 done  
   
@@ -32,3 +32,5 @@ echo "| ${text} |"
 echo "+${line}+"  
 -конец файла-  
 chmod +x ./myscript  
+![image](https://github.com/user-attachments/assets/a1abfd77-7340-4a72-959c-39d16fb6b31f)
+
