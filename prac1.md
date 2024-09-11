@@ -51,4 +51,6 @@ chmod +x ./myscript
 # Задача 6 Решение:
 -содержание файла-  
 ![image](https://github.com/user-attachments/assets/72069a73-d028-457b-af1e-be82fda7e1f5)
+-содержание пробного файла-  
+![image](https://github.com/user-attachments/assets/d3c4310a-399f-4589-ad3b-4dc8ae1ba862)
 
