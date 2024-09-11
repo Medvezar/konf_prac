@@ -30,3 +30,5 @@ done
 echo "+${line}+"  
 echo "| ${text} |"  
 echo "+${line}+"  
+-конец файла-  
+chmod +x ./myscript  
